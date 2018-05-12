@@ -1,0 +1,35 @@
+_repo: The-Poems-of-SapphoAn-Interpretative-Rendition-into-English_42166
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: O'Hara, John Myers
+    birthdate: 1870
+    deathdate: 1944
+    gutenberg_agent_id: '41556'
+    url: http://www.gutenberg.org/2009/agents/41556
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Sappho
+    gutenberg_agent_id: '32618'
+    url: http://www.gutenberg.org/2009/agents/32618
+description: ''
+gutenberg_issued: '2013-02-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42166'
+  lccn: '10015781'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Sappho -- Translations into English'
+- !lcc 'PS'
+- !lcc 'PA'
+- !lcsh 'Women -- Greece -- Poetry'
+- !lcsh 'Lesbos Island (Greece) -- Poetry'
+title: 'The Poems of Sappho: An Interpretative Rendition into English'
+url: http://www.gutenberg.org/ebooks/42166
